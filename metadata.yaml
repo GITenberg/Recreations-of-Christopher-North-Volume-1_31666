@@ -1,0 +1,35 @@
+_repo: Recreations-of-Christopher-North-Volume-1_31666
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, John
+    aliases:
+    - North, Christopher
+    - Mullion, Mordecai
+    - Austin, Arthur
+    birthdate: 1785
+    deathdate: 1854
+    gutenberg_agent_id: '9011'
+    url: http://www.gutenberg.org/2009/agents/9011
+    wikipedia: http://en.wikipedia.org/wiki/John_Wilson_%28Scottish_writer%29
+description: ''
+gutenberg_issued: '2010-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Essays'
+tableOfContents: Christopher in his sporting jacket -- Tale of expiation -- Morning
+  monologue -- The field of flowers -- Cottages -- An hour's talk about poetry --
+  Inch-cruin -- A day at Windermere -- The moors -- Highland snow-storm -- The Holy
+  Child -- Our parish.
+title: Recreations of Christopher North, Volume 1
+url: http://www.gutenberg.org/ebooks/31666
